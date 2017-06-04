@@ -9,3 +9,5 @@ use nodeloginapp;
 // create collection
 db.createCollection('users');
 ```
+
+`npm start`
