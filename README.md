@@ -7,5 +7,5 @@
 use nodeloginapp;
 
 // create collection
-db.createCollection('users)
+db.createCollection('users');
 ```
